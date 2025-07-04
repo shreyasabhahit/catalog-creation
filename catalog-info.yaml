@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: {{ name }}
+  description: Example scaffolded app
+  tags:
+    - sign-in
+spec:
+  type: website
+  lifecycle: experimental
+  owner: user:default/guest
