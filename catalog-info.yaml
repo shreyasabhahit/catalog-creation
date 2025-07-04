@@ -3,6 +3,8 @@ kind: Component
 metadata:
   name: FirstCatalog
   description: Example scaffolded app
+  annotations:
+    backstage.io/techdocs-ref: dir:.
   tags:
     - sign-in
 spec:
