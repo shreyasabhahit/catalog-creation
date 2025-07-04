@@ -1,0 +1,5 @@
+site_name: Tutorial 3
+nav:
+  - Home: index.md
+plugins:
+  - techdocs-core
