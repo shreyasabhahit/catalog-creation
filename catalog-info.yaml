@@ -5,7 +5,7 @@ metadata:
   description: Example scaffolded app
   annotations:
     backstage.io/techdocs-ref: dir:.
-    github.com/project-slug: shreyasabhahit/catalog-creation
+    github.com/project-slug: shreyasabhahit/catalog-info
   tags:
     - sign-in
 spec:
