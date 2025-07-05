@@ -1,0 +1,7 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: first-system
+  description: A system to group related components
+spec:
+  owner: user:default/guest
