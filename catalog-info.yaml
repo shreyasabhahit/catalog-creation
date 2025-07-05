@@ -11,3 +11,6 @@ spec:
   type: website
   lifecycle: experimental
   owner: user:default/guest
+  system: first-system
+  providesApis:
+    - signin-api
